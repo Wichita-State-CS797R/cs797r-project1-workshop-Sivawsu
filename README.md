@@ -7,11 +7,11 @@ Part1 - Displaying Data
 
 Added basic MonkeyFinder project along with all empty xaml page files into the git local repository.
 
-	The part Part-0 is showing the basic overview of .NET MAUI and projetc folder structure. Also explained how to set basic propeties of application like images, logo, icons..etc. Explained about CreateMauiApp method which is a static MauiProgram class that creates and return a MauiApp. This is entry point of the application. This MauiProgam class is must to run an app.
+The part Part-0 is showing the basic overview of .NET MAUI and projetc folder structure. Also explained how to set basic propeties of application like images, logo, icons..etc. Explained about CreateMauiApp method which is a static MauiProgram class that creates and return a MauiApp. This is entry point of the application. This MauiProgam class is must to run an app.
 	
 After Successfull run of Part0 basic code with all basic folders on VS code editor using Emulator, The app shown like this below.
 
-${Part0-Run.png}
+
 
 
 

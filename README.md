@@ -13,6 +13,15 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 
 ${Part0-Run.png}
 
+In the Part1:
+
+- In the Monkey Class, defined the features of monkey like Name, Location, Details, Image, Population, Latitute, Longitute
+- Additionally, Using System.Text.Json to deserialize the data, we will want to add a MonkeyContext that will dynamically generate code for better performance.				
+			  # internal sealed partial class MonkeyContext : JsonSerializerContext
+- For displayong the list of Monkeys in a collected manner, The MainPage.xml has been updated here.
+- Executed the code on Emulator and below is the run snap of app
+ ${Part1-Run.png}
+
 
 
 

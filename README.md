@@ -2,6 +2,9 @@
 
 Clone the project from the repositiry: https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu.git to the local machine.
 
+**
+Name: Sivaprasad Reddy Bogireddy, mywsuId: K966S589
+Course: CS797R 		Term: Fall-2023    Instructor: Huabo Lu**
 
 # Part0: Initial
 

@@ -22,7 +22,7 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 	* Internal sealed partial class MonkeyContext : JsonSerializerContext
 - For displayong the list of Monkeys in a collected manner, The MainPage.xml has been updated here.
 - Executed the code on Emulator and below is the run snap of app
-- Part1: Execution: ![Part1-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part1-Run.png)
+- Part1: Execution:  ![Part1-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part1-Run.png)
 
 
 # Part2: MVVM
@@ -50,7 +50,7 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 - Executed the Part3 code on Emulator and below is the run snap of app
 - Part3: Execution1: ![Part3-1-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-1-Run.png))
 - Part3: Execution2:![Part3-2-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-2-Run.png))
-- Part3: Execution3:[Part3-3-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-3-Run.png)
+- Part3: Execution3: ![Part3-3-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-3-Run.png)
 
 # Part4: Platform Features
 

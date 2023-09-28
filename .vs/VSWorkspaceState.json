@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MonkeyFinder",
+    "\\MonkeyFinder\\Properties"
   ],
+  "SelectedNode": "\\MonkeyFinder\\Services",
   "PreviewInSolutionExplorer": false
 }

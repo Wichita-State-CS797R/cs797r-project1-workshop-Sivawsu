@@ -54,5 +54,12 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 - Executed the Part4 code on Emulator and below is the run snap of app		
  ${Part4-1-Run.png}   ${Part4-2-Run.png}   ${Part4-3-Run.png} ${Part4-4-Run.png}
 
+# In the Part5
+
+- Added Pull-to-Refresh feature to the application by using .NET MAUI ListView
+- Played around the different Layout like LinearItemsLayout, GridItemsLayout and EmptyView.
+- Changed the xaml code in MainPage.xaml as per different layouts.
+- Below are the run-time screenshots.
+- {Part5-1-Run.png}   ${Part5-2-Run.png}   ${Part5-3-Run.png} ${Part5-4-Run.png}
 
 

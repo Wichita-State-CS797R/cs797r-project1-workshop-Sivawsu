@@ -15,18 +15,9 @@ public partial class MonkeysViewModel : BaseViewModel
         this.connectivity = connectivity;
         this.geolocation = geolocation;
     }
-    
-    [RelayCommand]
-    async Task GoToDetails(Monkey monkey)
-    {
-        if (monkey == null)
-        return;
 
-        await Shell.Current.GoToAsync(nameof(DetailsPage), true, new Dictionary<string, object>
-        {
-            {"Monkey", monkey }
-        });
-    }
+    [ObservableProperty]
+    bool isRefreshing;
 
     [RelayCommand]
     async Task GetMonkeysAsync()
@@ -61,8 +52,21 @@ public partial class MonkeysViewModel : BaseViewModel
         finally
         {
             IsBusy = false;
+            IsRefreshing = false;
         }
 
+    }
+    
+    [RelayCommand]
+    async Task GoToDetails(Monkey monkey)
+    {
+        if (monkey == null)
+        return;
+
+        await Shell.Current.GoToAsync(nameof(DetailsPage), true, new Dictionary<string, object>
+        {
+            {"Monkey", monkey }
+        });
     }
 
     [RelayCommand]

@@ -57,8 +57,21 @@
         <member name="P:MonkeyFinder.ViewModel.BaseViewModel.Title">
             <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.title"/>
         </member>
+        <member name="T:MonkeyFinder.ViewModel.MonkeyDetailsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.Monkey">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.monkey"/>
+        </member>
         <member name="T:MonkeyFinder.ViewModel.MonkeysViewModel">
             <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetails(MonkeyFinder.Model.Monkey)"/>.</summary>
         </member>
         <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.getMonkeysCommand">
             <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysCommand"/>.</summary>
@@ -78,6 +91,9 @@
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Monkey">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Monkey" generated properties.</summary>
+        </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
             <summary>
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
@@ -92,6 +108,9 @@
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Monkey">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Monkey" generated properties.</summary>
         </member>
     </members>
 </doc>

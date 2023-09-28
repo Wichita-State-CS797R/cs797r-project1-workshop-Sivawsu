@@ -3,8 +3,8 @@
 Clone the project from the repositiry: https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu.git to the local machine.
 
 **
-Name: Sivaprasad Reddy Bogireddy, mywsuId: K966S589
-Course: CS797R 		Term: Fall-2023    Instructor: Huabo Lu**
+- Name: Sivaprasad Reddy Bogireddy, mywsuId: K966S589
+- Course: CS797R 		Term: Fall-2023    Instructor: Huabo Lu**
 
 # Part0: Initial
 
@@ -49,7 +49,7 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 - Expanded ViewModel for Details of each monkey on to the newly created DetailsPage.xaml UI
 - Executed the Part3 code on Emulator and below is the run snap of app
 - Part3: Execution1: ![Part3-1-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-1-Run.png))
-- Part3: Execution2:![Part3-2-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-2-Run.png))
+- Part3: Execution2: ![Part3-2-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-2-Run.png))
 - Part3: Execution3: ![Part3-3-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-3-Run.png)
 
 # Part4: Platform Features
@@ -81,6 +81,16 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 # Part6: AppThemes
 
 - In this part, they shown how to change the background theme Light/Dark.
-- Updated all the Resources in the App.xml.
+- Updated all the Resources in the App.xml. The Ligh/Dark Themes are working and responding as per the device change.
+
+
+
+======================================END====================================================
+
+
+
+Thanks and Regards
+Sivaprasad Reddy Bogireddy
+
 
 

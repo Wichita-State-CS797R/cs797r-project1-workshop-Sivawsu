@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jSlsShuRmKl1XE+MwkTe0IoIQ9mBNCLyOl/I/qHhQJ7WCsbfu7BfpMdzpL5Jflx7hSNjSO50yveQktzbSzTfwA==",
+  "dgSpecHash": "POEtI2k2PlkqG1MwO3F9Bjk+g8VeikhkXzTicIG26yVsFlVEjJJU5KVZU/n6qlCHfrsz06Ym0wlU/QMHJQV9nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reddy\\Downloads\\CS797R-Fall_2023\\Project1-2\\MonkeyFinder\\MonkeyFinder.csproj",
+  "projectFilePath": "C:\\Users\\reddy\\Downloads\\CS797R-Fall_2023\\Project1-3\\MonkeyFinder\\MonkeyFinder.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\reddy\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\reddy\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\reddy\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\reddy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

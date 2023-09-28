@@ -1,0 +1,1 @@
+C:\Users\reddy\Downloads\CS797R-Fall_2023\dotnet-maui-workshop-main\Part 3 - Navigation\MonkeyFinder\MonkeyFinder.csproj;x64

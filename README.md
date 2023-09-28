@@ -82,8 +82,8 @@ After Successfull run of Part0 basic code with all basic folders on VS code edit
 
 - In this part, they shown how to change the background theme Light/Dark.
 - Updated all the Resources in the App.xml. The Ligh/Dark Themes are working and responding as per the device change.
-- ![Part3-3-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-3-Run.png)
-- ![Part3-3-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/MicrosoftTeams-image.png)
+- ![Part6-1-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/Part3-3-Run.png)
+- ![Part6-2-Run](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-Sivawsu/blob/main/Images/MicrosoftTeams-image.png)
 
 
 ======================================END=======================================
